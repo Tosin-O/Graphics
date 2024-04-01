@@ -1,0 +1,4 @@
+﻿  cube.cpp
+cubeNoOOP.obj : error LNK2005: "class std::vector<struct Point3D,class std::allocator<struct Point3D> > points" (?points@@3V?$vector@UPoint3D@@V?$allocator@UPoint3D@@@std@@@std@@A) already defined in cube.obj
+cubeNoOOP.obj : error LNK2005: "class std::vector<struct Edge,class std::allocator<struct Edge> > edges" (?edges@@3V?$vector@UEdge@@V?$allocator@UEdge@@@std@@@std@@A) already defined in cube.obj
+C:\Users\Obisanya Oluwatosin\Desktop\Cube Creation\x64\Debug\CubeCreation.exe : fatal error LNK1169: one or more multiply defined symbols found

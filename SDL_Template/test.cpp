@@ -94,7 +94,7 @@ int main(int argc, char* argv[]) {
     backgroundTextures.push_back(loadTexture("./Assets/Pixel_Forest/newbeach.jpg")); // Index 0: beach
     backgroundTextures.push_back(loadTexture("./Assets/Pixel_Forest/newtree.png"));    // Index 1: tree
     backgroundTextures.push_back(loadTexture("./Assets/Pixel_Forest/newocean.jpg"));   // Index 2: cloud
-    backgroundTextures.push_back(loadTexture("./Assets/Pixel_Forest/newborder.jpg"));   // Index 2: cloud
+    
 
     // Main loop flag
     bool quit = false;

@@ -1,0 +1,18 @@
+﻿  cube.cpp
+  cubeNoOOP.cpp
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\cubeNoOOP.cpp(59,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\cubeNoOOP.cpp(59,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\cubeNoOOP.cpp(59,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\cubeNoOOP.cpp(59,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Renderer3D.cpp
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(27,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(27,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(27,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(27,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         with
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         [
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:             _Rep=double
+C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\Renderer3D.cpp(34,28): warning C4244:         ]
+  Generating Code...
+  CubeCreation.vcxproj -> C:\Users\Obisanya Oluwatosin\Documents\Second Year\Second Semester\CSC 212 Graphics\CubeCreation\x64\Debug\CubeCreation.exe
